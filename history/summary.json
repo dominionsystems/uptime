@@ -5,7 +5,7 @@
     "slug": "payroll-live",
     "status": "up",
     "uptime": "100.00",
-    "time": 515
+    "time": 541
   },
   {
     "name": "Payroll (2Live)",
@@ -13,7 +13,7 @@
     "slug": "payroll-2-live",
     "status": "up",
     "uptime": "100.00",
-    "time": 471
+    "time": 481
   },
   {
     "name": "Punch Monitor",
@@ -21,7 +21,7 @@
     "slug": "punch-monitor",
     "status": "up",
     "uptime": "100.00",
-    "time": 117
+    "time": 128
   },
   {
     "name": "Mobile Authentication Server",
@@ -29,7 +29,7 @@
     "slug": "mobile-authentication-server",
     "status": "up",
     "uptime": "100.00",
-    "time": 255
+    "time": 252
   },
   {
     "name": "Authentication Server",
@@ -37,7 +37,7 @@
     "slug": "authentication-server",
     "status": "up",
     "uptime": "100.00",
-    "time": 74
+    "time": 77
   },
   {
     "name": "Mobile API",
@@ -45,7 +45,7 @@
     "slug": "mobile-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 1086
+    "time": 919
   },
   {
     "name": "Mobile API (2Live)",
@@ -53,6 +53,6 @@
     "slug": "mobile-api-2-live",
     "status": "up",
     "uptime": "100.00",
-    "time": 54
+    "time": 51
   }
 ]
