@@ -54,7 +54,7 @@ jobs:
           workflow: Graphs CI
           token: ${{ secrets.GH_PAT }}
       - name: Generate site
-        uses: dominion-it/uptime@master
+        uses: upptime/uptime-monitor@master
         with:
           command: "site"
         env:
