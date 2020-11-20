@@ -1,42 +1,58 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Payroll (Live)",
+    "url": "https://live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time",
+    "slug": "payroll-live",
     "status": "up",
     "uptime": "100.00",
-    "time": 70
+    "time": 860
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Payroll (2Live)",
+    "url": "https://2live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time",
+    "slug": "payroll-2-live",
     "status": "up",
     "uptime": "100.00",
-    "time": 103
+    "time": 831
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Punch Monitor",
+    "url": "https://live.dominionsystems.com/punchmonitor/readpunches.aspx",
+    "slug": "punch-monitor",
     "status": "up",
     "uptime": "100.00",
-    "time": 271
+    "time": 212
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
+    "name": "Mobile Authentication Server",
+    "url": "https://auth2.dominionsystems.com/v4/.well-known/openid-configuration",
+    "slug": "mobile-authentication-server",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 493
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 0
+    "name": "Authentication Server",
+    "url": "https://auth2.dominionsystems.com/issue/wsfed",
+    "slug": "authentication-server",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 165
+  },
+  {
+    "name": "Mobile API",
+    "url": "https://services.dominionsystems.com/mobile/api/clock",
+    "slug": "mobile-api",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1139
+  },
+  {
+    "name": "Mobile API (2Live)",
+    "url": "https://services.dominionsystems.com/2mobile/api/clock",
+    "slug": "mobile-api-2-live",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 77
   }
 ]
