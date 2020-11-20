@@ -1,7 +1,7 @@
 - url: https://live.dominionsystems.com/punchmonitor/readpunches.aspx
 - status: up
 - code: 200
-- responseTime: 94
-- lastUpdated: 2020-11-20T20:47:32.218Z
+- responseTime: 171
+- lastUpdated: 2020-11-20T20:58:13.561Z
 - startTime: 2020-11-20T20:47:32.121Z
 - generator: Upptime <https://github.com/upptime/upptime>
