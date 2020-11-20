@@ -25,9 +25,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/dominion-it/uptime/master/static/img/icon.svg
-  name: Dominion Systems Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/dominion-it/uptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  name: Dominion Systems
+  introTitle: "Dominion Systems. PAYROLL & HR. ONE PLATFORM."
+  introMessage: This is the uptime monitor and status page for [Dominion Systems](https://dominionsystems.com), powered by [Upptime](https://github.com/upptime/upptime).
   navbar:
     - title: Dominion Systems
       href: https://dominionsystems.com
@@ -36,7 +36,7 @@ status-website:
     - title: DS 2Live
       href: https://2live.dominionsystems.com/payroll
     - title: Status
-      href: /
+      href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
