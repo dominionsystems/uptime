@@ -4,16 +4,20 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Payroll (Live)
+    url: https://live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time
+  - name: Payroll (2Live)
+    url: https://2live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time
+  - name: Punch Monitor
+    url: https://live.dominionsystems.com/punchmonitor/readpunches.aspx
+  - name: Mobile Authentication Server
+    url: https://auth2.dominionsystems.com/v4/.well-known/openid-configuration
+  - name: Authentication Server
+    url: https://auth2.dominionsystems.com/issue/wsfed
+  - name: Mobile API
+    url: https://services.dominionsystems.com/mobile/api/clock
+  - name: Mobile API (2Live)
+    url: https://services.dominionsystems.com/2mobile/api/clock
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
