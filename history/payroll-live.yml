@@ -1,7 +1,7 @@
 - url: https://live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time
 - status: up
 - code: 200
-- responseTime: 661
-- lastUpdated: 2020-11-20T23:15:20.333Z
+- responseTime: 595
+- lastUpdated: 2020-11-21T23:15:25.772Z
 - startTime: 2020-11-20T20:47:30.090Z
 - generator: Upptime <https://github.com/upptime/upptime>
