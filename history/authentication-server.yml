@@ -1,7 +1,7 @@
 - url: https://auth2.dominionsystems.com/issue/wsfed
 - status: up
 - code: 200
-- responseTime: 85
-- lastUpdated: 2020-11-20T23:15:22.444Z
+- responseTime: 70
+- lastUpdated: 2020-11-21T23:15:27.878Z
 - startTime: 2020-11-20T20:47:33.488Z
 - generator: Upptime <https://github.com/upptime/upptime>
