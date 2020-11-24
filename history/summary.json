@@ -3,9 +3,9 @@
     "name": "Payroll (Live)",
     "url": "https://live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time",
     "slug": "payroll-live",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 655
+    "status": "up",
+    "uptime": "96.98%",
+    "time": 744
   },
   {
     "name": "Payroll (2Live)",
@@ -19,9 +19,9 @@
     "name": "Punch Monitor",
     "url": "https://live.dominionsystems.com/punchmonitor/readpunches.aspx",
     "slug": "punch-monitor",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 111
+    "status": "up",
+    "uptime": "96.98%",
+    "time": 172
   },
   {
     "name": "Mobile Authentication Server",
