@@ -4,8 +4,8 @@
     "url": "https://live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time",
     "slug": "payroll-live",
     "status": "up",
-    "uptime": "97.11%",
-    "time": 767
+    "uptime": "97.45%",
+    "time": 747
   },
   {
     "name": "Payroll (2Live)",
@@ -13,15 +13,15 @@
     "slug": "payroll-2-live",
     "status": "up",
     "uptime": "100.00%",
-    "time": 584
+    "time": 593
   },
   {
     "name": "Punch Monitor",
     "url": "https://live.dominionsystems.com/punchmonitor/readpunches.aspx",
     "slug": "punch-monitor",
     "status": "up",
-    "uptime": "97.12%",
-    "time": 233
+    "uptime": "97.45%",
+    "time": 225
   },
   {
     "name": "Mobile Authentication Server",
@@ -29,7 +29,7 @@
     "slug": "mobile-authentication-server",
     "status": "up",
     "uptime": "100.00%",
-    "time": 313
+    "time": 304
   },
   {
     "name": "Authentication Server",
@@ -37,22 +37,22 @@
     "slug": "authentication-server",
     "status": "up",
     "uptime": "100.00%",
-    "time": 107
+    "time": 105
   },
   {
     "name": "Mobile API",
     "url": "https://services.dominionsystems.com/mobile/api/clock",
     "slug": "mobile-api",
     "status": "up",
-    "uptime": "99.04%",
-    "time": 1313
+    "uptime": "99.15%",
+    "time": 1260
   },
   {
     "name": "Mobile API (2Live)",
     "url": "https://services.dominionsystems.com/2mobile/api/clock",
     "slug": "mobile-api-2-live",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.16%",
     "time": 61
   }
 ]
