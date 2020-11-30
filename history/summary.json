@@ -4,7 +4,7 @@
     "url": "https://live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time",
     "slug": "payroll-live",
     "status": "down",
-    "uptime": "97.85%",
+    "uptime": "97.71%",
     "time": 710
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://live.dominionsystems.com/punchmonitor/readpunches.aspx",
     "slug": "punch-monitor",
     "status": "down",
-    "uptime": "97.85%",
+    "uptime": "97.72%",
     "time": 837
   },
   {
@@ -44,15 +44,15 @@
     "url": "https://services.dominionsystems.com/mobile/api/clock",
     "slug": "mobile-api",
     "status": "down",
-    "uptime": "99.29%",
+    "uptime": "99.15%",
     "time": 1156
   },
   {
     "name": "Mobile API (2Live)",
     "url": "https://services.dominionsystems.com/2mobile/api/clock",
     "slug": "mobile-api-2-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "time": 62
+    "time": 59
   }
 ]
