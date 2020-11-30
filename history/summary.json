@@ -3,9 +3,9 @@
     "name": "Payroll (Live)",
     "url": "https://live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time",
     "slug": "payroll-live",
-    "status": "down",
-    "uptime": "97.62%",
-    "time": 1178
+    "status": "up",
+    "uptime": "97.63%",
+    "time": 1725
   },
   {
     "name": "Payroll (2Live)",
