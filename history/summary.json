@@ -4,8 +4,16 @@
     "url": "https://live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time",
     "slug": "payroll-live",
     "status": "up",
-    "uptime": "98.03%",
-    "time": 1624
+    "uptime": "98.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "98.18%",
+    "time": 2111,
+    "timeDay": 641,
+    "timeWeek": 3582,
+    "timeMonth": 2111,
+    "timeYear": 2111
   },
   {
     "name": "Payroll (2Live)",
@@ -13,15 +21,31 @@
     "slug": "payroll-2-live",
     "status": "up",
     "uptime": "100.00%",
-    "time": 608
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 632,
+    "timeDay": 473,
+    "timeWeek": 636,
+    "timeMonth": 632,
+    "timeYear": 632
   },
   {
     "name": "Punch Monitor",
     "url": "https://live.dominionsystems.com/punchmonitor/readpunches.aspx",
     "slug": "punch-monitor",
     "status": "up",
-    "uptime": "98.04%",
-    "time": 686
+    "uptime": "98.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "98.19%",
+    "time": 796,
+    "timeDay": 87,
+    "timeWeek": 1489,
+    "timeMonth": 796,
+    "timeYear": 796
   },
   {
     "name": "Mobile Authentication Server",
@@ -29,7 +53,15 @@
     "slug": "mobile-authentication-server",
     "status": "up",
     "uptime": "100.00%",
-    "time": 316
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 349,
+    "timeDay": 640,
+    "timeWeek": 398,
+    "timeMonth": 349,
+    "timeYear": 349
   },
   {
     "name": "Authentication Server",
@@ -37,22 +69,46 @@
     "slug": "authentication-server",
     "status": "up",
     "uptime": "100.00%",
-    "time": 104
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 109,
+    "timeDay": 91,
+    "timeWeek": 98,
+    "timeMonth": 109,
+    "timeYear": 109
   },
   {
     "name": "Mobile API",
     "url": "https://services.dominionsystems.com/mobile/api/clock",
     "slug": "mobile-api",
     "status": "up",
-    "uptime": "99.07%",
-    "time": 1871
+    "uptime": "99.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
+    "time": 2057,
+    "timeDay": 340,
+    "timeWeek": 2630,
+    "timeMonth": 2057,
+    "timeYear": 2057
   },
   {
     "name": "Mobile API (2Live)",
     "url": "https://services.dominionsystems.com/2mobile/api/clock",
     "slug": "mobile-api-2-live",
     "status": "up",
-    "uptime": "99.18%",
-    "time": 618
+    "uptime": "99.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
+    "time": 676,
+    "timeDay": 37,
+    "timeWeek": 1550,
+    "timeMonth": 676,
+    "timeYear": 676
   }
 ]
