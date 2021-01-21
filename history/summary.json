@@ -28,18 +28,20 @@
     "url": "https://2live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time",
     "icon": "https://favicons.githubusercontent.com/2live.dominionsystems.com",
     "slug": "payroll-2-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 630,
     "timeDay": 592,
     "timeWeek": 622,
     "timeMonth": 620,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-21": 2
+    }
   },
   {
     "name": "Punch Monitor",
@@ -72,10 +74,10 @@
     "url": "https://auth2.dominionsystems.com/v4/.well-known/openid-configuration",
     "icon": "https://favicons.githubusercontent.com/auth2.dominionsystems.com",
     "slug": "mobile-authentication-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 341,
@@ -83,17 +85,19 @@
     "timeWeek": 310,
     "timeMonth": 324,
     "timeYear": 341,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-21": 2
+    }
   },
   {
     "name": "Authentication Server",
     "url": "https://auth2.dominionsystems.com/issue/wsfed",
     "icon": "https://favicons.githubusercontent.com/auth2.dominionsystems.com",
     "slug": "authentication-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
@@ -101,17 +105,19 @@
     "timeWeek": 93,
     "timeMonth": 96,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-21": 1
+    }
   },
   {
     "name": "Mobile API",
     "url": "https://services.dominionsystems.com/mobile/api/clock",
     "icon": "https://favicons.githubusercontent.com/services.dominionsystems.com",
     "slug": "mobile-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 3354,
@@ -120,6 +126,7 @@
     "timeMonth": 2226,
     "timeYear": 3354,
     "dailyMinutesDown": {
+      "2021-01-21": 1,
       "2020-12-19": 145,
       "2020-12-08": 65,
       "2020-11-30": 64,
@@ -132,9 +139,9 @@
     "url": "https://services.dominionsystems.com/2mobile/api/clock",
     "icon": "https://favicons.githubusercontent.com/services.dominionsystems.com",
     "slug": "mobile-api-2-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
@@ -144,6 +151,7 @@
     "timeMonth": 1038,
     "timeYear": 1177,
     "dailyMinutesDown": {
+      "2021-01-21": 0,
       "2020-12-19": 145,
       "2020-11-30": 45,
       "2020-11-28": 76,
