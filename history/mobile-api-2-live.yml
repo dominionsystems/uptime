@@ -1,7 +1,7 @@
 url: https://services.dominionsystems.com/2mobile/api/clock
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-03-20T23:23:55.579Z
+status: up
+code: 200
+responseTime: 4687
+lastUpdated: 2021-03-21T15:54:05.388Z
 startTime: Fri Nov 20 2020 20:47:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
