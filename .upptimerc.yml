@@ -1,5 +1,5 @@
 # Change these first
-owner: dominion-it # Your GitHub username
+owner: dominionsystems # Your GitHub username
 repo: uptime # Your Github repository name
 
 # Add your sites here
@@ -26,7 +26,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/dominion-it/uptime/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/dominionsystems/uptime/master/static/img/icon.svg
   name: Dominion Systems
   introTitle: "Dominion Systems. PAYROLL & HR. ONE PLATFORM."
   introMessage: This is the uptime monitor and status page for [Dominion Systems](https://dominionsystems.com), powered by [Upptime](https://github.com/upptime/upptime).
