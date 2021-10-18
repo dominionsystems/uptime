@@ -14,10 +14,12 @@ sites:
     url: https://auth2.dominionsystems.com/v4/.well-known/openid-configuration
   - name: Authentication Server
     url: https://auth2.dominionsystems.com/issue/wsfed
-  - name: Mobile API
+  - name: Mobile API (azure)
+    url: https://dsmobileapi.azurewebsites.net/api/clock
+  - name: Mobile API (dom-services)
     url: https://services.dominionsystems.com/mobile/api/clock
-  - name: Mobile API (2Live)
-    url: https://services.dominionsystems.com/2mobile/api/clock
+  - name: 2Mobile API (azure)
+    url: https://dsmobile2api.azurewebsites.net/api/clock
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
