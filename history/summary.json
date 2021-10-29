@@ -156,18 +156,19 @@
     "icon": "https://favicons.githubusercontent.com/services.dominionsystems.com",
     "slug": "mobile-api-dom-services",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.61%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
     "time": 1567,
     "timeDay": 17212,
     "timeWeek": 2718,
     "timeMonth": 1567,
     "timeYear": 1567,
     "dailyMinutesDown": {
-      "2021-10-28": 38
+      "2021-10-29": 19,
+      "2021-10-28": 40
     }
   },
   {
