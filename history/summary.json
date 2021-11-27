@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 654,
-    "timeDay": 569,
-    "timeWeek": 566,
-    "timeMonth": 652,
-    "timeYear": 641,
+    "timeDay": 641,
+    "timeWeek": 568,
+    "timeMonth": 651,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2021-10-19": 21,
       "2021-10-07": 23,
@@ -29,8 +29,7 @@
       "2021-02-11": 19,
       "2020-12-19": 159,
       "2020-11-30": 45,
-      "2020-11-28": 76,
-      "2020-11-27": 24
+      "2020-11-28": 76
     }
   },
   {
@@ -41,13 +40,13 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.88%",
     "time": 608,
-    "timeDay": 573,
-    "timeWeek": 606,
-    "timeMonth": 1178,
+    "timeDay": 661,
+    "timeWeek": 655,
+    "timeMonth": 1180,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2021-11-19": 24,
@@ -63,16 +62,16 @@
     "icon": "https://favicons.githubusercontent.com/live.dominionsystems.com",
     "slug": "punch-monitor",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 2982,
-    "timeDay": 133,
-    "timeWeek": 121,
-    "timeMonth": 2274,
-    "timeYear": 3080,
+    "time": 2975,
+    "timeDay": 140,
+    "timeWeek": 124,
+    "timeMonth": 2275,
+    "timeYear": 3079,
     "dailyMinutesDown": {
       "2021-10-07": 32,
       "2021-09-14": 34,
@@ -83,8 +82,7 @@
       "2021-01-14": 8,
       "2020-12-19": 159,
       "2020-11-30": 44,
-      "2020-11-28": 76,
-      "2020-11-27": 24
+      "2020-11-28": 76
     }
   },
   {
@@ -99,8 +97,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 277,
-    "timeDay": 296,
-    "timeWeek": 257,
+    "timeDay": 287,
+    "timeWeek": 253,
     "timeMonth": 302,
     "timeYear": 276,
     "dailyMinutesDown": {
@@ -121,8 +119,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 83,
-    "timeDay": 121,
-    "timeWeek": 99,
+    "timeDay": 114,
+    "timeWeek": 97,
     "timeMonth": 116,
     "timeYear": 82,
     "dailyMinutesDown": {
@@ -141,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 290,
-    "timeWeek": 251,
-    "timeMonth": 283,
-    "timeYear": 316,
+    "time": 317,
+    "timeDay": 372,
+    "timeWeek": 269,
+    "timeMonth": 284,
+    "timeYear": 317,
     "dailyMinutesDown": {}
   },
   {
@@ -154,16 +152,16 @@
     "icon": "https://favicons.githubusercontent.com/services.dominionsystems.com",
     "slug": "mobile-api-dom-services",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.91%",
-    "uptimeYear": "99.14%",
-    "time": 3683,
-    "timeDay": 292,
-    "timeWeek": 1355,
+    "uptimeYear": "99.16%",
+    "time": 3622,
+    "timeDay": 272,
+    "timeWeek": 1348,
     "timeMonth": 4506,
-    "timeYear": 3683,
+    "timeYear": 3622,
     "dailyMinutesDown": {
       "2021-10-29": 439,
       "2021-10-28": 40
@@ -180,11 +178,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 268,
-    "timeWeek": 235,
+    "time": 260,
+    "timeDay": 314,
+    "timeWeek": 243,
     "timeMonth": 240,
-    "timeYear": 258,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   }
 ]
