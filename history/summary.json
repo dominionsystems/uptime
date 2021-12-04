@@ -169,18 +169,16 @@
     "icon": "https://favicons.githubusercontent.com/dsmobile2api.azurewebsites.net",
     "slug": "2-mobile-api-azure",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 255,
     "timeDay": 187,
     "timeWeek": 228,
     "timeMonth": 233,
     "timeYear": 255,
-    "dailyMinutesDown": {
-      "2021-12-03": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
