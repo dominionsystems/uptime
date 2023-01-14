@@ -75,9 +75,9 @@
     "url": "https://auth2.dominionsystems.com/v4/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth2.dominionsystems.com.ico",
     "slug": "mobile-authentication-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -87,6 +87,7 @@
     "timeMonth": 205,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2023-01-14": 0,
       "2022-07-12": 127,
       "2022-02-05": 36
     }
@@ -96,9 +97,9 @@
     "url": "https://auth2.dominionsystems.com/issue/wsfed",
     "icon": "https://icons.duckduckgo.com/ip3/auth2.dominionsystems.com.ico",
     "slug": "authentication-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -108,6 +109,7 @@
     "timeMonth": 73,
     "timeYear": 84,
     "dailyMinutesDown": {
+      "2023-01-14": 0,
       "2022-02-05": 36
     }
   },
@@ -136,18 +138,19 @@
     "url": "https://services.dominionsystems.com/mobile/api/clock",
     "icon": "https://icons.duckduckgo.com/ip3/services.dominionsystems.com.ico",
     "slug": "mobile-api-dom-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1162,
-    "timeDay": 188,
-    "timeWeek": 182,
-    "timeMonth": 202,
-    "timeYear": 381,
+    "time": 1169,
+    "timeDay": 2331,
+    "timeWeek": 718,
+    "timeMonth": 335,
+    "timeYear": 392,
     "dailyMinutesDown": {
+      "2023-01-14": 0,
       "2022-03-04": 104,
       "2022-03-03": 14,
       "2022-02-05": 36
