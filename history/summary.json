@@ -6,9 +6,9 @@
     "slug": "payroll-live",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 667,
     "timeDay": 541,
@@ -16,7 +16,6 @@
     "timeMonth": 488,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2023-01-25": 10,
       "2022-04-25": 117,
       "2022-04-24": 253,
       "2022-03-31": 17,
@@ -29,9 +28,9 @@
     "url": "https://2live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time",
     "icon": "https://icons.duckduckgo.com/ip3/2live.dominionsystems.com.ico",
     "slug": "payroll-2-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -41,6 +40,7 @@
     "timeMonth": 418,
     "timeYear": 456,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-12-11": 26,
       "2022-02-11": 36,
       "2022-02-09": 20,
@@ -54,9 +54,9 @@
     "slug": "punch-monitor",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.06%",
     "time": 2797,
     "timeDay": 11385,
@@ -64,7 +64,6 @@
     "timeMonth": 810,
     "timeYear": 3019,
     "dailyMinutesDown": {
-      "2023-01-25": 10,
       "2022-05-16": 801,
       "2022-05-15": 1440,
       "2022-05-14": 1440,
@@ -165,17 +164,15 @@
     "slug": "2-mobile-api-azure",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 195,
     "timeWeek": 206,
     "timeMonth": 196,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2023-01-25": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
