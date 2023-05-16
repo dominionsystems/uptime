@@ -8,12 +8,12 @@
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 570,
-    "timeDay": 431,
-    "timeWeek": 456,
-    "timeMonth": 875,
+    "time": 569,
+    "timeDay": 413,
+    "timeWeek": 446,
+    "timeMonth": 444,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2023-04-16": 81,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
-    "timeDay": 351,
-    "timeWeek": 373,
-    "timeMonth": 379,
+    "timeDay": 347,
+    "timeWeek": 361,
+    "timeMonth": 380,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2022-12-11": 26
@@ -50,15 +50,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.85%",
     "time": 2783,
-    "timeDay": 119,
-    "timeWeek": 107,
+    "timeDay": 94,
+    "timeWeek": 104,
     "timeMonth": 101,
     "timeYear": 2612,
-    "dailyMinutesDown": {
-      "2022-05-16": 801
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mobile Authentication Server",
@@ -72,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 224,
-    "timeDay": 156,
-    "timeWeek": 173,
-    "timeMonth": 175,
+    "timeDay": 176,
+    "timeWeek": 167,
+    "timeMonth": 176,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2023-01-14": 15,
@@ -93,8 +91,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 83,
-    "timeDay": 50,
-    "timeWeek": 60,
+    "timeDay": 60,
+    "timeWeek": 59,
     "timeMonth": 62,
     "timeYear": 75,
     "dailyMinutesDown": {
@@ -112,10 +110,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 220,
-    "timeDay": 126,
-    "timeWeek": 165,
-    "timeMonth": 173,
+    "time": 219,
+    "timeDay": 149,
+    "timeWeek": 151,
+    "timeMonth": 174,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2022-06-29": 33
@@ -132,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 439,
-    "timeDay": 128,
-    "timeWeek": 161,
-    "timeMonth": 168,
-    "timeYear": 388,
+    "time": 438,
+    "timeDay": 191,
+    "timeWeek": 158,
+    "timeMonth": 169,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2023-01-14": 15
     }
@@ -152,10 +150,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 132,
-    "timeWeek": 167,
-    "timeMonth": 167,
+    "time": 205,
+    "timeDay": 162,
+    "timeWeek": 157,
+    "timeMonth": 169,
     "timeYear": 190,
     "dailyMinutesDown": {}
   }
