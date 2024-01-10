@@ -104,19 +104,19 @@
     "url": "https://2live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time",
     "icon": "https://icons.duckduckgo.com/ip3/2live.dominionsystems.com.ico",
     "slug": "payroll-2-live",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 406,
-    "timeWeek": 558,
-    "timeMonth": 638,
-    "timeYear": 457,
+    "time": 453,
+    "timeDay": 489,
+    "timeWeek": 560,
+    "timeMonth": 636,
+    "timeYear": 458,
     "dailyMinutesDown": {
-      "2024-01-10": 0
+      "2024-01-10": 9
     }
   },
   {
