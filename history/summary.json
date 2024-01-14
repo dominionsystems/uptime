@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "79.12%",
     "time": 613,
-    "timeDay": 714,
-    "timeWeek": 607,
-    "timeMonth": 722,
-    "timeYear": 649,
+    "timeDay": 698,
+    "timeWeek": 633,
+    "timeMonth": 727,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2023-12-27": 19,
       "2023-12-03": 48,
@@ -111,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 452,
-    "timeDay": 660,
-    "timeWeek": 529,
-    "timeMonth": 627,
-    "timeYear": 459,
+    "timeDay": 603,
+    "timeWeek": 551,
+    "timeMonth": 631,
+    "timeYear": 460,
     "dailyMinutesDown": {}
   },
   {
@@ -123,15 +123,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.dominionsystems.com.ico",
     "slug": "punch-monitor",
     "status": "up",
-    "uptime": "92.82%",
+    "uptime": "92.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.85%",
     "time": 1394,
-    "timeDay": 124,
-    "timeWeek": 96,
-    "timeMonth": 109,
+    "timeDay": 113,
+    "timeWeek": 105,
+    "timeMonth": 110,
     "timeYear": 856,
     "dailyMinutesDown": {
       "2023-12-03": 328,
@@ -220,14 +220,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth2.dominionsystems.com.ico",
     "slug": "mobile-authentication-server",
     "status": "up",
-    "uptime": "93.07%",
+    "uptime": "93.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.86%",
     "time": 287,
-    "timeDay": 393,
-    "timeWeek": 305,
+    "timeDay": 374,
+    "timeWeek": 339,
     "timeMonth": 403,
     "timeYear": 313,
     "dailyMinutesDown": {
@@ -308,8 +308,7 @@
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
-      "2023-09-17": 1409,
-      "2023-01-14": 15
+      "2023-09-17": 1409
     }
   },
   {
@@ -318,15 +317,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth2.dominionsystems.com.ico",
     "slug": "authentication-server",
     "status": "up",
-    "uptime": "93.26%",
+    "uptime": "93.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.86%",
     "time": 152,
-    "timeDay": 61,
-    "timeWeek": 50,
-    "timeMonth": 77,
+    "timeDay": 62,
+    "timeWeek": 56,
+    "timeMonth": 79,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2023-12-03": 253,
@@ -406,8 +405,7 @@
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
-      "2023-09-17": 1409,
-      "2023-01-14": 15
+      "2023-09-17": 1409
     }
   },
   {
@@ -422,9 +420,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 135,
-    "timeWeek": 127,
-    "timeMonth": 180,
+    "timeDay": 128,
+    "timeWeek": 137,
+    "timeMonth": 182,
     "timeYear": 197,
     "dailyMinutesDown": {}
   },
@@ -434,15 +432,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.dominionsystems.com.ico",
     "slug": "mobile-api-dom-services",
     "status": "up",
-    "uptime": "90.42%",
+    "uptime": "90.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.84%",
     "time": 397,
-    "timeDay": 328,
-    "timeWeek": 298,
-    "timeMonth": 360,
+    "timeDay": 303,
+    "timeWeek": 322,
+    "timeMonth": 365,
     "timeYear": 420,
     "dailyMinutesDown": {
       "2023-12-03": 329,
@@ -522,8 +520,7 @@
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
-      "2023-09-17": 1408,
-      "2023-01-14": 15
+      "2023-09-17": 1408
     }
   },
   {
@@ -538,9 +535,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 148,
-    "timeWeek": 120,
-    "timeMonth": 176,
+    "timeDay": 150,
+    "timeWeek": 132,
+    "timeMonth": 179,
     "timeYear": 182,
     "dailyMinutesDown": {}
   }
