@@ -1,7 +1,7 @@
 url: https://dsmobileapi.azurewebsites.net/api/clock
-status: down
-code: 502
-responseTime: 23505
-lastUpdated: 2024-03-06T18:46:45.690Z
+status: up
+code: 200
+responseTime: 178
+lastUpdated: 2024-03-06T18:54:56.926Z
 startTime: 2021-10-18T14:49:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
