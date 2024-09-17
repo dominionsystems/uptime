@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.dominionsystems.com.ico",
     "slug": "payroll-live",
     "status": "up",
-    "uptime": "94.38%",
+    "uptime": "94.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "79.08%",
     "time": 669,
-    "timeDay": 842,
-    "timeWeek": 893,
-    "timeMonth": 769,
+    "timeDay": 503,
+    "timeWeek": 856,
+    "timeMonth": 768,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2024-05-15": 36,
@@ -95,8 +95,7 @@
       "2023-09-22": 1440,
       "2023-09-21": 1440,
       "2023-09-20": 1440,
-      "2023-09-19": 1440,
-      "2023-09-18": 1440
+      "2023-09-19": 1440
     }
   },
   {
@@ -111,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 637,
-    "timeDay": 982,
-    "timeWeek": 1008,
-    "timeMonth": 866,
+    "timeDay": 517,
+    "timeWeek": 959,
+    "timeMonth": 862,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2024-08-13": 470,
@@ -128,14 +127,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.dominionsystems.com.ico",
     "slug": "punch-monitor",
     "status": "up",
-    "uptime": "94.08%",
+    "uptime": "94.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.82%",
     "time": 928,
-    "timeDay": 316,
-    "timeWeek": 6975,
+    "timeDay": 50,
+    "timeWeek": 4787,
     "timeMonth": 4194,
     "timeYear": 1085,
     "dailyMinutesDown": {
@@ -216,8 +215,7 @@
       "2023-09-22": 1440,
       "2023-09-21": 1440,
       "2023-09-20": 1440,
-      "2023-09-19": 1440,
-      "2023-09-18": 1440
+      "2023-09-19": 1440
     }
   },
   {
@@ -232,10 +230,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.83%",
     "time": 396,
-    "timeDay": 369,
-    "timeWeek": 421,
-    "timeMonth": 391,
-    "timeYear": 454,
+    "timeDay": 279,
+    "timeWeek": 402,
+    "timeMonth": 388,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2024-07-12": 23,
       "2024-03-09": 137,
@@ -314,8 +312,7 @@
       "2023-09-22": 1440,
       "2023-09-21": 1440,
       "2023-09-20": 1440,
-      "2023-09-19": 1440,
-      "2023-09-18": 1440
+      "2023-09-19": 1440
     }
   },
   {
@@ -330,9 +327,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "78.84%",
     "time": 243,
-    "timeDay": 69,
-    "timeWeek": 75,
-    "timeMonth": 258,
+    "timeDay": 19,
+    "timeWeek": 68,
+    "timeMonth": 257,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2024-08-23": 20,
@@ -413,8 +410,7 @@
       "2023-09-22": 1440,
       "2023-09-21": 1440,
       "2023-09-20": 1440,
-      "2023-09-19": 1440,
-      "2023-09-18": 1440
+      "2023-09-19": 1440
     }
   },
   {
@@ -429,9 +425,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 183,
-    "timeWeek": 198,
-    "timeMonth": 184,
+    "timeDay": 69,
+    "timeWeek": 181,
+    "timeMonth": 181,
     "timeYear": 260,
     "dailyMinutesDown": {}
   },
@@ -441,15 +437,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.dominionsystems.com.ico",
     "slug": "mobile-api-dom-services",
     "status": "up",
-    "uptime": "92.63%",
+    "uptime": "92.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.82%",
     "time": 516,
-    "timeDay": 323,
-    "timeWeek": 2822,
-    "timeMonth": 1780,
+    "timeDay": 154,
+    "timeWeek": 2072,
+    "timeMonth": 1773,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2024-03-09": 155,
@@ -528,8 +524,7 @@
       "2023-09-22": 1440,
       "2023-09-21": 1440,
       "2023-09-20": 1440,
-      "2023-09-19": 1440,
-      "2023-09-18": 1440
+      "2023-09-19": 1440
     }
   },
   {
@@ -543,11 +538,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 173,
-    "timeWeek": 204,
-    "timeMonth": 191,
-    "timeYear": 207,
+    "time": 202,
+    "timeDay": 65,
+    "timeWeek": 191,
+    "timeMonth": 188,
+    "timeYear": 206,
     "dailyMinutesDown": {}
   }
 ]
