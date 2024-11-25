@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "94.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "97.71%",
+    "uptimeYear": "97.98%",
     "time": 715,
-    "timeDay": 812,
-    "timeWeek": 835,
-    "timeMonth": 812,
-    "timeYear": 755,
+    "timeDay": 484,
+    "timeWeek": 713,
+    "timeMonth": 809,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2024-11-17": 20,
       "2024-05-15": 36,
@@ -27,8 +27,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -42,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 703,
-    "timeDay": 1008,
-    "timeWeek": 937,
-    "timeMonth": 904,
+    "time": 704,
+    "timeDay": 734,
+    "timeWeek": 859,
+    "timeMonth": 898,
     "timeYear": 771,
     "dailyMinutesDown": {
       "2024-08-13": 470,
@@ -60,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.dominionsystems.com.ico",
     "slug": "punch-monitor",
     "status": "down",
-    "uptime": "91.15%",
+    "uptime": "91.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "84.58%",
     "time": 995,
-    "timeDay": 50,
-    "timeWeek": 35,
-    "timeMonth": 36,
+    "timeDay": 2,
+    "timeWeek": 27,
+    "timeMonth": 35,
     "timeYear": 1290,
     "dailyMinutesDown": {
-      "2024-11-24": 48,
+      "2024-11-25": 45,
+      "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
@@ -127,8 +127,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -141,11 +140,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.46%",
+    "uptimeYear": "97.73%",
     "time": 429,
-    "timeDay": 539,
-    "timeWeek": 466,
-    "timeMonth": 456,
+    "timeDay": 336,
+    "timeWeek": 434,
+    "timeMonth": 457,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2024-11-08": 17,
@@ -157,8 +156,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -171,12 +169,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.47%",
+    "uptimeYear": "97.74%",
     "time": 273,
-    "timeDay": 117,
-    "timeWeek": 1724,
-    "timeMonth": 534,
-    "timeYear": 335,
+    "timeDay": 21,
+    "timeWeek": 70,
+    "timeMonth": 533,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2024-08-23": 20,
       "2024-07-12": 23,
@@ -187,8 +185,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -203,9 +200,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 315,
-    "timeWeek": 229,
-    "timeMonth": 229,
+    "timeDay": 76,
+    "timeWeek": 192,
+    "timeMonth": 225,
     "timeYear": 254,
     "dailyMinutesDown": {}
   },
@@ -215,15 +212,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.dominionsystems.com.ico",
     "slug": "mobile-api-dom-services",
     "status": "up",
-    "uptime": "93.08%",
+    "uptime": "93.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.45%",
+    "uptimeYear": "97.72%",
     "time": 639,
-    "timeDay": 434,
-    "timeWeek": 454,
-    "timeMonth": 1032,
+    "timeDay": 197,
+    "timeWeek": 428,
+    "timeMonth": 1025,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2024-03-09": 155,
@@ -233,8 +230,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -249,9 +245,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 304,
-    "timeWeek": 234,
-    "timeMonth": 231,
+    "timeDay": 83,
+    "timeWeek": 197,
+    "timeMonth": 228,
     "timeYear": 214,
     "dailyMinutesDown": {}
   }
