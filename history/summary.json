@@ -58,7 +58,7 @@
     "timeMonth": 26,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2025-06-18": 337,
+      "2025-06-18": 350,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
@@ -379,19 +379,19 @@
     "url": "https://services.dominionsystems.com/mobile/api/clock",
     "icon": "https://icons.duckduckgo.com/ip3/services.dominionsystems.com.ico",
     "slug": "mobile-api-dom-services",
-    "status": "down",
+    "status": "up",
     "uptime": "94.15%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 996,
-    "timeDay": 5078,
-    "timeWeek": 1637,
-    "timeMonth": 1501,
-    "timeYear": 1174,
+    "time": 1042,
+    "timeDay": 11091,
+    "timeWeek": 4024,
+    "timeMonth": 2137,
+    "timeYear": 1233,
     "dailyMinutesDown": {
-      "2025-06-18": 0
+      "2025-06-18": 13
     }
   },
   {
