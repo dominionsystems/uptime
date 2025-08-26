@@ -1,7 +1,7 @@
 url: https://auth2.dominionsystems.com/v4/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 638
-lastUpdated: 2025-08-25T23:22:11.921Z
+responseTime: 373
+lastUpdated: 2025-08-26T23:20:58.267Z
 startTime: 2020-11-20T20:47:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
