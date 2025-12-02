@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.dominionsystems.com.ico",
     "slug": "payroll-live",
     "status": "up",
-    "uptime": "95.72%",
+    "uptime": "95.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 725,
-    "timeDay": 837,
-    "timeWeek": 647,
-    "timeMonth": 652,
+    "timeDay": 680,
+    "timeWeek": 658,
+    "timeMonth": 654,
     "timeYear": 709,
     "dailyMinutesDown": {
       "2025-09-06": 61,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 826,
-    "timeDay": 829,
-    "timeWeek": 611,
+    "time": 825,
+    "timeDay": 545,
+    "timeWeek": 604,
     "timeMonth": 671,
-    "timeYear": 772,
+    "timeYear": 771,
     "dailyMinutesDown": {
       "2025-09-06": 61,
       "2025-08-25": 21,
@@ -51,18 +51,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.dominionsystems.com.ico",
     "slug": "punch-monitor",
     "status": "down",
-    "uptime": "72.69%",
+    "uptime": "72.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 518,
-    "timeDay": 51,
-    "timeWeek": 13,
+    "timeDay": 16,
+    "timeWeek": 15,
     "timeMonth": 23,
     "timeYear": 26,
     "dailyMinutesDown": {
-      "2025-12-01": 61,
+      "2025-12-02": 51,
+      "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
@@ -425,8 +426,7 @@
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
-      "2024-12-03": 1440,
-      "2024-12-02": 1440
+      "2024-12-03": 1440
     }
   },
   {
@@ -441,10 +441,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 428,
-    "timeDay": 617,
-    "timeWeek": 449,
-    "timeMonth": 433,
-    "timeYear": 432,
+    "timeDay": 443,
+    "timeWeek": 459,
+    "timeMonth": 435,
+    "timeYear": 433,
     "dailyMinutesDown": {
       "2025-08-25": 20
     }
@@ -461,9 +461,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 110,
-    "timeWeek": 38,
-    "timeMonth": 59,
+    "timeDay": 48,
+    "timeWeek": 43,
+    "timeMonth": 58,
     "timeYear": 68,
     "dailyMinutesDown": {
       "2025-08-25": 20
@@ -481,10 +481,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 242,
-    "timeWeek": 99,
+    "timeDay": 140,
+    "timeWeek": 110,
     "timeMonth": 143,
-    "timeYear": 188,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   },
   {
@@ -499,9 +499,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1410,
-    "timeDay": 598,
-    "timeWeek": 402,
-    "timeMonth": 1062,
+    "timeDay": 364,
+    "timeWeek": 407,
+    "timeMonth": 938,
     "timeYear": 1467,
     "dailyMinutesDown": {
       "2025-06-24": 98
@@ -519,9 +519,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 224,
-    "timeWeek": 91,
-    "timeMonth": 139,
+    "timeDay": 149,
+    "timeWeek": 105,
+    "timeMonth": 140,
     "timeYear": 187,
     "dailyMinutesDown": {}
   }
