@@ -4,9 +4,9 @@
     "url": "https://live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time",
     "icon": "https://icons.duckduckgo.com/ip3/live.dominionsystems.com.ico",
     "slug": "payroll-live",
-    "status": "up",
+    "status": "down",
     "uptime": "95.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 630,
     "timeYear": 703,
     "dailyMinutesDown": {
+      "2026-01-04": 0,
       "2025-09-06": 61,
       "2025-08-25": 22,
       "2025-07-10": 37,
@@ -27,9 +28,9 @@
     "url": "https://2live.dominionsystems.com/Payroll/applicantPostingListNL.aspx?code=time",
     "icon": "https://icons.duckduckgo.com/ip3/2live.dominionsystems.com.ico",
     "slug": "payroll-2-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -39,6 +40,7 @@
     "timeMonth": 708,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2026-01-04": 0,
       "2025-09-06": 61,
       "2025-08-25": 21,
       "2025-08-13": 45,
@@ -62,7 +64,7 @@
     "timeMonth": 24,
     "timeYear": 26,
     "dailyMinutesDown": {
-      "2026-01-04": 60,
+      "2026-01-04": 99,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -434,9 +436,9 @@
     "url": "https://auth2.dominionsystems.com/v4/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth2.dominionsystems.com.ico",
     "slug": "mobile-authentication-server",
-    "status": "up",
+    "status": "down",
     "uptime": "95.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -446,6 +448,7 @@
     "timeMonth": 422,
     "timeYear": 434,
     "dailyMinutesDown": {
+      "2026-01-04": 0,
       "2025-08-25": 20
     }
   },
@@ -454,9 +457,9 @@
     "url": "https://auth2.dominionsystems.com/issue/wsfed",
     "icon": "https://icons.duckduckgo.com/ip3/auth2.dominionsystems.com.ico",
     "slug": "authentication-server",
-    "status": "up",
+    "status": "down",
     "uptime": "95.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -466,6 +469,7 @@
     "timeMonth": 62,
     "timeYear": 67,
     "dailyMinutesDown": {
+      "2026-01-04": 0,
       "2025-08-25": 20
     }
   },
@@ -492,18 +496,19 @@
     "url": "https://services.dominionsystems.com/mobile/api/clock",
     "icon": "https://icons.duckduckgo.com/ip3/services.dominionsystems.com.ico",
     "slug": "mobile-api-dom-services",
-    "status": "up",
+    "status": "down",
     "uptime": "94.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1376,
+    "time": 1370,
     "timeDay": 373,
     "timeWeek": 942,
     "timeMonth": 785,
     "timeYear": 1442,
     "dailyMinutesDown": {
+      "2026-01-04": 0,
       "2025-06-24": 98
     }
   },
