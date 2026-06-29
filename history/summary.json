@@ -58,7 +58,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.dominionsystems.com.ico",
     "slug": "punch-monitor",
     "status": "down",
-    "uptime": "65.23%",
+    "uptime": "65.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -69,7 +69,7 @@
     "timeMonth": 274,
     "timeYear": 62,
     "dailyMinutesDown": {
-      "2026-06-29": 87,
+      "2026-06-29": 133,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
